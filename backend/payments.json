@@ -1,0 +1,24 @@
+{
+    "user1": [
+        {
+            "order_id": "ORD123",
+            "amount": 199.99,
+            "status": "Paid",
+            "date": "2024-11-01"
+        },
+        {
+            "order_id": "ORD456",
+            "amount": 149.99,
+            "status": "Paid",
+            "date": "2024-10-01"
+        }
+    ],
+    "user2": [
+        {
+            "order_id": "ORD789",
+            "amount": 89.99,
+            "status": "Pending",
+            "date": "2024-11-10"
+        }
+    ]
+}
